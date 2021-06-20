@@ -5,3 +5,4 @@ This week's assignment was an on-the-job-ticket where we edited and made the web
 
 The image below shows what the website should render to.
 ![Screenshot](Screenshot.png)
+ 
